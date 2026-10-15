@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="ko"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261015-04-7abc9b0","C":{"Abril Fatface":"YACgEZbkUVE,0","Albert Sans":"YAHO2HRfeh4,0","Alfa Slab One":"YACgEYS9sJU,0","Anton":"YACgEcYqQ-A,0","Archivo Black":"YACgEZulLoA,0","Archivo":"YAHO2-t-jNE,0","Arial":"YAGyDvJ_4Ts,0","Baloo 2":"YAHO2IcQUcM,0","Barlow Condensed":"YAFdJljEuFc,0","Barlow":"YAFdJsyuOPM,1","Bebas Neue":"YACgESME5ew,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Cairo":"YAFdtXpDzlQ,0","Canva Sans":"YAFdJjTk5UU,1","Caveat":"YALBs2ploWQ,0","Cinzel":"YACgEeV8bIQ,0","Cormorant Garamond":"YAFdJhX-538,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Figtree":"YAHO2b-mV7A,0","Forum":"YACgEcnnqB4,0","Fraunces":"YAFdJpU7Kkk,0","Fredoka":"YACgEZml080,0","Georgia":"YAGzXkO0pEM,0","Hanken Grotesk":"YAHO2VB9G0I,0","Helvetica":"YAFcf7zkXN0,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","Impact":"YAFcfnjI7Vk,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Italiana":"YAHO2Toik_w,0","Jacques Francois":"YAHO2a5g66Q,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Karla":"YAHO2V2NSXM,0","Lato":"YAFdJuFCnaw,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Caslon Display":"YAHO2XhLmt0,0","Lobster":"YAD8SnSjSFI,0","Lora":"YACgEXvxf8Q,0","Manrope":"YAHO2b2feC4,0","Merriweather":"YACgEXvHxxs,0","Montserrat":"YAFdtQi73Xs,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans KR":"YAGsojZj-RQ,0","Nunito Sans":"YAFdtQJYB9w,1","Nunito":"YAFdJoNRMmU,1","Oleo Script":"YACgEQQ14jI,0","Open Sans":"YAFdJt8dAY0,1","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","Pacifico":"YADLjORQ1u4,0","Playfair Display":"YAFdJhem5V8,1","Plus Jakarta Sans":"YAHO2gdhi18,0","Poppins":"YAFdJjbTu24,1","Press Start 2P":"YAFyGr-8pmQ,0","Public Sans":"YAFdJj8NdaU,1","Quicksand":"YAFdJpYtCxE,1","Raleway":"YAFdJhmxbVQ,1","Roboto Slab":"YAFdJswIKAg,0","Rockwell":"YAFcfyVZnN0,0","Rye":"YACgEdQP21k,0","STIX Two Text":"YAHO2joycuk,0","Sarabun":"YAFdJssSnME,0","Schibsted Grotesk":"YAHO2sWydRk,0","Segoe UI":"YAHNdRD1Klw,0","Source Sans 3":"YAG4lO1Mj10,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Spectral":"YAHO2rVUHIM,0","Times New Roman":"YAGzXW3gftg,0","Trebuchet MS":"YAFcfrglpVA,0","Ubuntu":"YACgERDU--Q,0","Verdana":"YAGzXTctYtQ,0","Work Sans":"YAGXhLOKv44,0","Yellowtail":"YACgEYG4kG4,0"}}');</script><script src="/_sdk/05db820ba1544614.telemetry_sdk.js" integrity="sha512-a7JzkQDDcioSXpM61nxTfeRW7PcxWQy5+BrhyeTFmQFsXJ+Gncm0y50u7fTA7qOPegFnRgqCfa0mGUOK1yjDWQ=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Protocol 404 | 통합 스토어</title>
+  <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.4/build/qrcode.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#263354;--muted:#586582;--line:#d9dff4;--blue:#5369e9;--purple:#7759df;--pink:#e874b4;--surface:rgba(255,255,255,.84)}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;color:var(--ink);font-family:Inter,sans-serif}
+    .app-shell{width:100%;min-height:calc(100 * min(var(--vh, 1vh), 1vh));position:relative;isolation:isolate;overflow:hidden}
+    .app-shell::before{content:"";position:absolute;inset:0;z-index:-2;pointer-events:none;background:radial-gradient(ellipse 48% 22% at 8% 12%,#a9f6e6 0%,transparent 95%),radial-gradient(ellipse 38% 23% at 90% 8%,#ffe2af 0%,transparent 95%),radial-gradient(ellipse 43% 26% at 75% 35%,#f7b8dd 0%,transparent 95%),radial-gradient(ellipse 46% 31% at 13% 56%,#c5efff 0%,transparent 95%),radial-gradient(ellipse 43% 28% at 80% 85%,#d8c7ff 0%,transparent 95%);filter:blur(38px);opacity:.88}
+    .app-shell::after{content:"";position:absolute;z-index:-1;pointer-events:none;top:180px;right:-220px;width:520px;height:520px;border-radius:50%;border:1px solid #e687b955;box-shadow:0 0 0 18px #ffffff18,0 0 0 38px #e687b91c,0 0 0 65px #ffffff20,0 0 0 92px #e687b918;transform:rotate(-25deg)}
+    .glass{background:var(--surface);border:1px solid #ffffff;box-shadow:0 15px 45px #6b79ad1c;backdrop-filter:blur(18px)}
+    .field{width:100%;border:1px solid #cbd3ed;background:#ffffffd9;border-radius:13px;padding:12px 14px;color:var(--ink);outline:none;transition:border-color .2s,box-shadow .2s}
+    .field:focus{border-color:var(--purple);box-shadow:0 0 0 3px #a18bf13b}
+    button:focus-visible,a:focus-visible{outline:3px solid var(--purple);outline-offset:3px}
+    .action{background:#566ce9;color:#fff;font-weight:700;border-radius:13px;padding:11px 17px;box-shadow:0 7px 17px #6976db36;transition:transform .18s,filter .18s;white-space:nowrap}
+    .action:hover:not(:disabled){transform:translateY(-2px);filter:brightness(1.08)}
+    .action:disabled{opacity:.48;cursor:not-allowed;box-shadow:none}
+    .subaction{background:#ffffffb8;border:1px solid #d6dcf2;border-radius:13px;padding:10px 15px;color:#38476d;transition:background .18s,border-color .18s;white-space:nowrap}
+    .subaction:hover{background:#fff;border-color:#9c8bea}
+    .chip[aria-pressed="true"],.mode[aria-pressed="true"]{background:#695fe6;color:white;border-color:#695fe6;box-shadow:0 7px 18px #766adc30}
+    .product-photo{width:100%;aspect-ratio:4/3;object-fit:cover;background:#e9eff9}
+    .modal-backdrop{position:fixed;inset:0;z-index:50;background:#27325093;display:flex;align-items:center;justify-content:center;padding:16px;overflow-y:auto;backdrop-filter:blur(9px)}
+    .modal-backdrop[hidden],[hidden]{display:none!important}
+    .modal-box{width:min(100%,620px);max-height:90%;overflow:auto;background:#fffffff2}
+    .hero-grid{position:relative;background:linear-gradient(112deg,#dbfff1 0%,#e4f4ff 28%,#e9dfff 55%,#ffe0ee 79%,#fff3c9 100%);box-shadow:0 20px 48px #9d90c82b}
+    .hero-grid::after{content:"";position:absolute;right:-80px;top:-100px;width:350px;height:350px;border-radius:50%;background:radial-gradient(circle,#fff7b7b8,transparent 67%);filter:blur(15px);pointer-events:none}
+    .hero-grid>*{position:relative;z-index:1}
+    .reveal{animation:rise .45s both}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
+  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
+  <script src="/_sdk/570d53629f0b998d.data_sdk.js" type="text/javascript" integrity="sha512-JEN39+V+Nvv9ZZOVS8vNk1iA9ErZJHTdgOw9KzPuMiK7m0I+KPEr/wmTnCFIQVsDjCZgJWfGnFi1IQh2Io2qyA=="></script>
+  <script src="/_sdk/0d3107a88dd31248.editing_sdk.js" type="text/javascript" integrity="sha512-YxJYPIC1TZ/l8asjpXojbfYA1LiLTr3Fh6BPE6fDLKLWTkDIhVGqsl6xMTuKf5GPOv3sZeQW9jrwgZcsiAARIQ=="></script>
+  <script src="/_sdk/f195026a424c1f85.resizing_sdk.js" type="text/javascript" integrity="sha512-8On4Z+AXh1abEzZJ9Dbn9wOvFg+k1LsAaAzKGQ7LlfgXajZ9xEmZaZ1QVzv0AWhCZtCsEpWSOG9DgLri06TS7A=="></script>
+ </head>
+ <body data-template-id="__page-root" style="background: linear-gradient(135deg, rgb(229, 255, 244), rgb(229, 244, 255), rgb(240, 230, 255), rgb(255, 233, 242), rgb(255, 244, 215));">
+  <div class="app-shell w-full">
+   <header data-template-id="site-header" class="canva-header border-b border-white/70 backdrop-blur-xl" style="background: rgba(255, 255, 255, 0.72);">
+    <div class="max-w-7xl mx-auto px-5 py-5 flex flex-wrap items-center justify-between gap-4">
+     <div>
+      <p data-template-id="brand-kicker" class="canva-text uppercase tracking-[.24em] font-bold" style="color: rgb(119, 89, 223); font-weight: 700; font-style: normal; font-size: 11px;">CURATED FOR THE UNEXPECTED</p>
+      <h1 data-template-id="brand-title" class="canva-text font-extrabold tracking-tight" style="color: rgb(38, 51, 84); font-weight: 800; font-style: normal; font-size: 32px;">PROTOCOL 404</h1>
+     </div>
+     <nav aria-label="화면 모드" class="flex flex-wrap gap-2"><button id="buyer-mode" data-template-id="buyer-mode-label" type="button" class="canva-button mode subaction" aria-pressed="true" style="background: rgb(105, 95, 230); color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">스토어</button> <button id="seller-mode" data-template-id="seller-mode-label" type="button" class="canva-button mode subaction" aria-pressed="false" style="background: rgba(255, 255, 255, 0.72); color: rgb(56, 71, 109); font-weight: 400; font-style: normal; font-size: 16px;">판매자 관리센터</button> <button id="cart-open" type="button" class="subaction" aria-label="장바구니 열기"><span data-template-id="cart-button-label" class="canva-text" style="color: rgb(56, 71, 109); font-weight: 400; font-style: normal; font-size: 16px;">장바구니</span> <span id="cart-count" aria-live="polite">0</span></button>
+     </nav>
+    </div>
+   </header>
+   <main class="max-w-7xl mx-auto px-5 py-8 md:py-12">
+    <section id="buyer-view">
+     <div data-template-id="hero-panel" class="canva-banner hero-grid rounded-[30px] border border-white p-7 md:p-12 mb-10 overflow-hidden" style="background: linear-gradient(112deg, rgb(219, 255, 241), rgb(228, 244, 255), rgb(233, 223, 255), rgb(255, 224, 238), rgb(255, 243, 201));">
+      <p data-template-id="hero-eyebrow" class="canva-text uppercase tracking-[.2em] font-bold mb-4" style="color: rgb(105, 79, 200); font-weight: 700; font-style: normal; font-size: 12px;">THE PROTOCOL 404 EDIT</p>
+      <h2 data-template-id="hero-title" class="canva-text font-extrabold tracking-tight max-w-2xl leading-tight mb-4" style="color: rgb(64, 69, 162); font-weight: 800; font-style: normal; font-size: 43px;">포켓몬 희귀 굿즈</h2>
+      <p data-template-id="hero-description" class="canva-text max-w-xl leading-relaxed" style="color: rgb(70, 85, 119); font-weight: 400; font-style: normal; font-size: 16px;">정품 포켓몬 굿즈만 취급합니다.</p>
+     </div>
+     <div class="flex flex-wrap items-end justify-between gap-5 mb-6">
+      <div>
+       <p data-template-id="catalog-kicker" class="canva-text uppercase tracking-widest font-bold mb-2" style="color: rgb(119, 89, 223); font-weight: 700; font-style: normal; font-size: 11px;">EXPLORE THE COLLECTION</p>
+       <h2 data-template-id="catalog-title" class="canva-text font-bold" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 24px;">전체 상품</h2>
+      </div>
+      <p id="result-count" class="text-[#586582]" aria-live="polite"></p>
+     </div>
+     <div id="category-filters" class="flex gap-2 overflow-x-auto pb-5 mb-2" aria-label="상품 카테고리 필터"></div>
+     <div id="product-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5"></div>
+     <p id="product-empty" data-template-id="product-empty" class="canva-text glass rounded-2xl text-center p-12" hidden="" style="color: rgb(88, 101, 130); font-weight: 400; font-style: normal; font-size: 16px;">이 카테고리에 등록된 상품이 없습니다.</p>
+    </section>
+    <section id="seller-view" hidden="">
+     <div class="mb-8">
+      <p data-template-id="seller-kicker" class="canva-text uppercase tracking-widest font-bold mb-2" style="color: rgb(119, 89, 223); font-weight: 700; font-style: normal; font-size: 11px;">STORE OPERATIONS</p>
+      <h2 data-template-id="seller-title" class="canva-text font-bold mb-2" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 24px;">판매자 관리센터</h2>
+      <p data-template-id="seller-description" class="canva-text" style="color: rgb(88, 101, 130); font-weight: 400; font-style: normal; font-size: 16px;">카테고리와 상품을 관리하고 접수된 주문을 확인하세요.</p>
+     </div>
+     <div class="grid lg:grid-cols-[.85fr_1.15fr] gap-6">
+      <section data-template-id="category-panel" class="canva-panel glass rounded-3xl p-6" style="background: rgba(255, 255, 255, 0.84);">
+       <h3 data-template-id="category-heading" class="canva-text font-bold mb-5" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 19px;">카테고리 관리</h3>
+       <form id="category-form" class="flex gap-2 mb-5">
+        <label for="category-name" data-template-id="category-name-label" class="canva-text sr-only" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">카테고리 이름</label><input id="category-name" data-template-id="category-placeholder" class="canva-input field min-w-0" maxlength="35" required="" placeholder="새 카테고리 이름" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;"><button id="category-submit" data-template-id="category-add-button" type="submit" class="canva-button action shrink-0" style="background: rgb(86, 108, 233); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">저장</button>
+       </form><button id="category-cancel" data-template-id="category-cancel-button" type="button" class="canva-button subaction mb-4" hidden="" style="color: rgb(56, 71, 109); font-weight: 400; font-style: normal; font-size: 16px;">수정 취소</button>
+       <div id="seller-categories" class="space-y-2"></div>
+      </section>
+      <section data-template-id="product-panel" class="canva-panel glass rounded-3xl p-6" style="background: rgba(255, 255, 255, 0.84);">
+       <h3 data-template-id="product-heading" class="canva-text font-bold mb-5" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 19px;">상품 등록 · 수정</h3>
+       <form id="product-form" class="grid sm:grid-cols-2 gap-4">
+        <div class="sm:col-span-2">
+         <label for="product-name" data-template-id="name-label" class="canva-text block mb-2" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">상품명</label><input id="product-name" class="field" maxlength="90" required="">
+        </div>
+        <div>
+         <label for="product-category" data-template-id="product-category-label" class="canva-text block mb-2" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">카테고리</label><select id="product-category" class="field" required=""></select>
+        </div>
+        <div>
+         <label for="product-price" data-template-id="price-label" class="canva-text block mb-2" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">가격 (원)</label><input id="product-price" class="field" type="number" min="0" max="100000000" step="1" required="">
+        </div>
+        <div>
+         <label for="product-stock" data-template-id="stock-label" class="canva-text block mb-2" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">재고 수량</label><input id="product-stock" class="field" type="number" min="0" max="999999" step="1" required="">
+        </div>
+        <div>
+         <label for="product-image" data-template-id="image-label" class="canva-text block mb-2" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">상품 이미지 HTTPS 주소</label><input id="product-image" class="field" type="url" placeholder="https://..." required="">
+        </div>
+        <div class="sm:col-span-2">
+         <label for="product-description" data-template-id="description-label" class="canva-text block mb-2" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">상품 설명</label><textarea id="product-description" class="field min-h-24" maxlength="500" required=""></textarea>
+        </div>
+        <div class="sm:col-span-2 flex flex-wrap gap-2">
+         <button id="product-submit" data-template-id="product-save-button" class="canva-button action" type="submit" style="background: rgb(86, 108, 233); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">상품 저장</button><button id="product-cancel" data-template-id="product-cancel-button" class="canva-button subaction" type="button" hidden="" style="color: rgb(56, 71, 109); font-weight: 400; font-style: normal; font-size: 16px;">수정 취소</button>
+        </div>
+       </form>
+      </section>
+     </div>
+     <section class="mt-8">
+      <h3 data-template-id="inventory-title" class="canva-text font-bold mb-4" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 19px;">등록된 상품</h3>
+      <div id="seller-products" class="space-y-3"></div>
+     </section>
+     <section class="mt-10">
+      <h3 data-template-id="orders-title" class="canva-text font-bold mb-4" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 19px;">최근 주문</h3>
+      <div id="seller-orders" class="space-y-3"></div>
+     </section>
+    </section>
+   </main>
+   <footer data-template-id="site-footer" class="canva-footer border-t border-white/70 mt-12" style="background: rgba(255, 255, 255, 0.55);">
+    <div class="max-w-7xl mx-auto px-5 py-8">
+     <p data-template-id="footer-copy" class="canva-text" style="color: rgb(88, 101, 130); font-weight: 400; font-style: normal; font-size: 13px;">© Protocol 404 · Discover beyond the ordinary.</p>
+    </div>
+   </footer>
+  </div>
+  <div id="detail-modal" class="modal-backdrop" hidden="" role="dialog" aria-modal="true" aria-labelledby="detail-name">
+   <div class="modal-box glass rounded-3xl p-5 md:p-7 relative">
+    <button type="button" class="modal-close subaction absolute top-4 right-4" aria-label="상품 상세 닫기">✕</button><img id="detail-image" class="product-photo rounded-2xl mb-5" alt="">
+    <p id="detail-category" class="text-[#7759df] font-bold mb-2"></p>
+    <h2 id="detail-name" class="text-2xl font-bold mb-3"></h2>
+    <p id="detail-description" class="text-[#586582] leading-relaxed mb-5"></p>
+    <div class="flex flex-wrap items-center justify-between gap-4 mb-6">
+     <strong id="detail-price" class="text-2xl"></strong><span id="detail-stock" class="text-[#586582]"></span>
+    </div>
+    <div class="flex flex-wrap items-center gap-3">
+     <label for="detail-quantity" data-template-id="quantity-label" class="canva-text" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">수량</label><input id="detail-quantity" type="number" min="1" value="1" class="field w-24"><button id="add-to-cart" type="button" data-template-id="add-to-cart-label" class="canva-button action" style="background: rgb(86, 108, 233); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">장바구니 담기</button>
+    </div>
+   </div>
+  </div>
+  <div id="cart-modal" class="modal-backdrop" hidden="" role="dialog" aria-modal="true" aria-labelledby="cart-heading">
+   <div class="modal-box glass rounded-3xl p-6 md:p-8 relative">
+    <button type="button" class="modal-close subaction absolute top-4 right-4" aria-label="장바구니 닫기">✕</button>
+    <h2 id="cart-heading" data-template-id="cart-heading-text" class="canva-text font-bold mb-6 pr-12" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 24px;">장바구니</h2>
+    <div id="cart-items" class="space-y-3"></div>
+    <p id="cart-empty" data-template-id="cart-empty-text" class="canva-text py-8 text-center" style="color: rgb(88, 101, 130); font-weight: 400; font-style: normal; font-size: 16px;">장바구니가 비어 있습니다.</p>
+    <div class="border-t border-[#d9dff4] mt-6 pt-5 flex justify-between font-bold">
+     <span data-template-id="total-label" class="canva-text" style="color: rgb(38, 51, 84); font-weight: 400; font-style: normal; font-size: 16px;">합계</span><span id="cart-total"></span>
+    </div><button id="checkout" data-template-id="checkout-label" type="button" class="canva-button action w-full mt-6" style="background: rgb(86, 108, 233); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">주문 완료하기</button>
+   </div>
+  </div>
+  <div id="success-modal" class="modal-backdrop" hidden="" role="dialog" aria-modal="true" aria-labelledby="success-heading">
+   <div class="modal-box glass rounded-3xl p-8 text-center">
+    <div class="text-5xl mb-5 text-[#7759df]" aria-hidden="true">
+     ✓
+    </div>
+    <h2 id="success-heading" data-template-id="success-title" class="canva-text font-bold mb-3" style="color: rgb(38, 51, 84); font-weight: 700; font-style: normal; font-size: 24px;">주문이 완료되었습니다</h2>
+    <p data-template-id="success-description" class="canva-text mb-5" style="color: rgb(88, 101, 130); font-weight: 400; font-style: normal; font-size: 16px;">아래 QR 코드와 주문번호를 확인해 주세요.</p>
+    <div id="qr-holder" class="bg-white rounded-xl w-fit mx-auto p-3 mb-5">
+     <canvas id="order-qr" role="img" aria-label="주문 정보 QR 코드"></canvas>
+    </div>
+    <p id="qr-fallback" class="text-[#586582] mb-3" hidden="">QR 코드를 표시할 수 없습니다. 아래 주문번호를 확인해 주세요.</p>
+    <p id="success-order" class="font-bold break-all mb-2"></p>
+    <p id="success-total" class="text-[#7759df] mb-6"></p><button id="success-close" data-template-id="success-close-label" class="canva-button action" type="button" style="background: rgb(86, 108, 233); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">쇼핑 계속하기</button>
+   </div>
+  </div>
+  <div id="toast" class="fixed bottom-5 left-1/2 -translate-x-1/2 bg-[#554bc8] text-white rounded-xl px-5 py-3 font-semibold z-[70] shadow-xl max-w-[90%]" role="status" aria-live="polite" hidden=""></div>
+  <script>
+(() => {
+  'use strict';
+  const KEY='protocol404-store-v1';
+  const seed={
+    categories:[{id:'cat-lifestyle',name:'라이프스타일'},{id:'cat-wellness',name:'웰니스'},{id:'cat-goods',name:'굿즈'}],
+    products:[
+      {id:'p-tea',categoryId:'cat-wellness',name:'프리미엄 허브 티',price:18000,stock:24,image:'https://images.pexels.com/photos/29387167/pexels-photo-29387167.jpeg',description:'하루의 호흡을 고르게 만드는 향긋한 허브 블렌드.'},
+      {id:'p-tumbler',categoryId:'cat-lifestyle',name:'에코 텀블러',price:29000,stock:18,image:'https://images.pexels.com/photos/7262742/pexels-photo-7262742.jpeg',description:'일상의 작은 변화를 위한 재사용 가능한 텀블러.'},
+      {id:'p-green-tea',categoryId:'cat-wellness',name:'그린 티 셀렉션',price:22000,stock:12,image:'https://images.pexels.com/photos/27509157/pexels-photo-27509157.jpeg',description:'싱그러운 잎의 풍미를 담은 프리미엄 티 셀렉션.'}
+    ],cart:[],orders:[]
+  };
+  const $=id=>document.getElementById(id);
+  const won=n=>new Intl.NumberFormat('ko-KR',{style:'currency',currency:'KRW',maximumFractionDigits:0}).format(n);
+  const uid=()=>crypto.randomUUID?crypto.randomUUID():Date.now()+'-'+Math.random().toString(36).slice(2);
+  let state;
+  try{const raw=localStorage.getItem(KEY),saved=raw?JSON.parse(raw):null;state=saved&&Array.isArray(saved.categories)&&Array.isArray(saved.products)&&Array.isArray(saved.cart)&&Array.isArray(saved.orders)?saved:structuredClone(seed)}
+  catch{state=structuredClone(seed)}
+  function persist(){try{localStorage.setItem(KEY,JSON.stringify(state));return true}catch{toast('브라우저 저장에 실패했습니다. 저장 공간을 확인해 주세요.');return false}}
+  if(!localStorage.getItem(KEY))persist();
+  let categoryFilter='all',editingCategory=null,editingProduct=null,detailId=null,lastFocus=null,toastTimer;
+  function toast(message){const el=$('toast');el.textContent=message;el.hidden=false;clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.hidden=true,3500)}
+  function node(tag,cls,text){const el=document.createElement(tag);if(cls)el.className=cls;if(text!==undefined)el.textContent=text;return el}
+  function button(text,handler,cls='subaction'){const el=node('button',cls,text);el.type='button';el.addEventListener('click',handler);return el}
+  function categoryName(id){return state.categories.find(c=>c.id===id)?.name||'미분류'}
+  function cleanCart(){state.cart=state.cart.filter(item=>state.products.some(p=>p.id===item.id&&p.stock>0)).map(item=>({id:item.id,quantity:Math.min(item.quantity,state.products.find(p=>p.id===item.id).stock)}))}
+  function renderFilters(){
+    const box=$('category-filters');box.replaceChildren();
+    for(const item of [{id:'all',name:'전체 보기'},...state.categories]){
+      const b=button(item.name,()=>{categoryFilter=item.id;renderFilters();renderProducts()},'chip subaction whitespace-nowrap');
+      b.setAttribute('aria-pressed',String(categoryFilter===item.id));box.append(b)
+    }
+  }
+  function renderProducts(){
+    const list=$('product-grid');list.replaceChildren();
+    const products=state.products.filter(p=>categoryFilter==='all'||p.categoryId===categoryFilter);
+    $('result-count').textContent=`상품 ${products.length}개`;$('product-empty').hidden=products.length>0;
+    for(const p of products){
+      const card=node('article','glass rounded-3xl overflow-hidden reveal');
+      const img=node('img','product-photo');img.src=p.image;img.alt=p.name;img.loading='lazy';img.onerror=()=>{img.onerror=null;img.style.display='none'};
+      const content=node('div','p-5');
+      content.append(node('p','text-[#7759df] text-sm font-bold mb-2',categoryName(p.categoryId)),node('h3','font-bold mb-2',p.name),node('p','text-[#586582] text-sm line-clamp-2 min-h-10',p.description));
+      const foot=node('div','flex items-center justify-between gap-3 mt-5');
+      foot.append(node('strong','',won(p.price)),button(p.stock?'자세히 보기':'품절',()=>openDetail(p.id),'action text-sm'));
+      if(!p.stock)foot.lastChild.disabled=true;
+      content.append(foot);card.append(img,content);list.append(card)
+    }
+  }
+  function renderCart(){
+    cleanCart();const box=$('cart-items');box.replaceChildren();let total=0,count=0;
+    for(const item of state.cart){
+      const p=state.products.find(x=>x.id===item.id);if(!p)continue;
+      total+=p.price*item.quantity;count+=item.quantity;
+      const row=node('div','border border-[#d9dff4] bg-white/70 rounded-xl p-4 flex flex-wrap justify-between gap-3');
+      const info=node('div');info.append(node('strong','block',p.name),node('span','text-[#586582] text-sm',`${won(p.price)} · 최대 ${p.stock}개`));
+      const controls=node('div','flex items-center gap-2');
+      controls.append(button('−',()=>changeQuantity(p.id,-1),'subaction px-3'),node('span','min-w-6 text-center',String(item.quantity)),button('+',()=>changeQuantity(p.id,1),'subaction px-3'),button('삭제',()=>{state.cart=state.cart.filter(x=>x.id!==p.id);persist();renderCart()},'subaction text-sm'));
+      row.append(info,controls);box.append(row)
+    }
+    $('cart-count').textContent=count;$('cart-total').textContent=won(total);$('cart-empty').hidden=count!==0;$('checkout').disabled=count===0
+  }
+  function changeQuantity(id,delta){
+    const item=state.cart.find(x=>x.id===id),p=state.products.find(x=>x.id===id);if(!item||!p)return;
+    if(item.quantity+delta>p.stock){toast('재고 수량을 초과할 수 없습니다.');return}
+    if(item.quantity+delta<=0)state.cart=state.cart.filter(x=>x.id!==id);else item.quantity+=delta;
+    persist();renderCart()
+  }
+  function renderSeller(){
+    const categories=$('seller-categories');categories.replaceChildren();
+    for(const c of state.categories){
+      const row=node('div','flex items-center justify-between gap-2 border border-[#d9dff4] bg-white/60 rounded-xl p-3');
+      row.append(node('span','font-semibold break-all',c.name));
+      const actions=node('div','flex gap-2 shrink-0');
+      actions.append(button('수정',()=>{editingCategory=c.id;$('category-name').value=c.name;$('category-name').focus();$('category-cancel').hidden=false},'subaction text-sm'),button('삭제',()=>confirmInline(actions,()=>{state.categories=state.categories.filter(x=>x.id!==c.id);state.products.forEach(p=>{if(p.categoryId===c.id)p.categoryId=''});if(categoryFilter===c.id)categoryFilter='all';if(editingCategory===c.id)resetCategoryForm();persist();renderAll();toast('카테고리를 삭제했습니다.')})));
+      row.append(actions);categories.append(row)
+    }
+    const select=$('product-category'),previous=select.value;select.replaceChildren();select.append(new Option('미분류',''));
+    for(const c of state.categories)select.append(new Option(c.name,c.id));
+    select.value=[...select.options].some(o=>o.value===previous)?previous:'';
+    const products=$('seller-products');products.replaceChildren();
+    if(!state.products.length)products.append(node('p','glass p-5 rounded-xl text-[#586582]','등록된 상품이 없습니다.'));
+    for(const p of state.products){
+      const row=node('article','glass p-4 rounded-xl flex flex-wrap items-center justify-between gap-3');
+      const info=node('div');info.append(node('strong','block',p.name),node('span','text-[#586582] text-sm',`${categoryName(p.categoryId)} · ${won(p.price)} · 재고 ${p.stock}개`));
+      const actions=node('div','flex gap-2');actions.append(button('수정',()=>editProduct(p.id)),button('삭제',()=>confirmInline(actions,()=>{state.products=state.products.filter(x=>x.id!==p.id);state.cart=state.cart.filter(x=>x.id!==p.id);if(editingProduct===p.id)resetProductForm();persist();renderAll();toast('상품을 삭제했습니다.')})));
+      row.append(info,actions);products.append(row)
+    }
+    const orders=$('seller-orders');orders.replaceChildren();
+    if(!state.orders.length)orders.append(node('p','glass p-5 rounded-xl text-[#586582]','아직 접수된 주문이 없습니다.'));
+    for(const o of [...state.orders].reverse()){
+      const row=node('article','glass p-4 rounded-xl');
+      row.append(node('strong','block break-all',o.id),node('p','text-[#586582] text-sm mt-1',`${new Date(o.createdAt).toLocaleString('ko-KR')} · ${o.items.map(i=>`${i.name} × ${i.quantity}`).join(', ')}`),node('p','text-[#7759df] font-bold mt-2',won(o.total)));orders.append(row)
+    }
+  }
+  function confirmInline(holder,action){holder.replaceChildren();holder.append(button('삭제 확인',action,'action text-sm'),button('취소',()=>renderSeller(),'subaction text-sm'))}
+  function renderAll(){renderFilters();renderProducts();renderCart();renderSeller()}
+  function resetCategoryForm(){editingCategory=null;$('category-form').reset();$('category-cancel').hidden=true}
+  function resetProductForm(){editingProduct=null;$('product-form').reset();$('product-cancel').hidden=true}
+  function editProduct(id){
+    const p=state.products.find(x=>x.id===id);if(!p)return;
+    editingProduct=id;$('product-name').value=p.name;$('product-category').value=p.categoryId;$('product-price').value=p.price;$('product-stock').value=p.stock;$('product-image').value=p.image;$('product-description').value=p.description;$('product-cancel').hidden=false;
+    $('product-form').scrollIntoView({behavior:'smooth',block:'center'});$('product-name').focus()
+  }
+  function openModal(id){lastFocus=document.activeElement;$(id).hidden=false;document.body.style.overflow='hidden';$(id).querySelector('button')?.focus()}
+  function closeModal(id){$(id).hidden=true;document.body.style.overflow='';lastFocus?.focus()}
+  function openDetail(id){
+    const p=state.products.find(x=>x.id===id);if(!p)return;detailId=id;
+    $('detail-image').src=p.image;$('detail-image').alt=p.name;$('detail-category').textContent=categoryName(p.categoryId);$('detail-name').textContent=p.name;$('detail-description').textContent=p.description;$('detail-price').textContent=won(p.price);$('detail-stock').textContent=`재고 ${p.stock}개`;$('detail-quantity').value=1;$('detail-quantity').max=p.stock;openModal('detail-modal')
+  }
+  function switchMode(mode){$('buyer-view').hidden=mode!=='buyer';$('seller-view').hidden=mode!=='seller';$('buyer-mode').setAttribute('aria-pressed',String(mode==='buyer'));$('seller-mode').setAttribute('aria-pressed',String(mode==='seller'));window.scrollTo({top:0,behavior:'smooth'})}
+  $('buyer-mode').addEventListener('click',()=>switchMode('buyer'));
+  $('seller-mode').addEventListener('click',()=>switchMode('seller'));
+  $('cart-open').addEventListener('click',()=>{renderCart();openModal('cart-modal')});
+  document.querySelectorAll('.modal-close').forEach(b=>b.addEventListener('click',()=>closeModal(b.closest('.modal-backdrop').id)));
+  document.querySelectorAll('.modal-backdrop').forEach(modal=>modal.addEventListener('click',e=>{if(e.target===modal)closeModal(modal.id)}));
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'){const open=document.querySelector('.modal-backdrop:not([hidden])');if(open)closeModal(open.id)}});
+  $('add-to-cart').addEventListener('click',()=>{
+    const p=state.products.find(x=>x.id===detailId);if(!p)return;
+    const quantity=Number($('detail-quantity').value),existing=state.cart.find(x=>x.id===p.id);
+    if(!Number.isInteger(quantity)||quantity<1||quantity+(existing?.quantity||0)>p.stock){toast('수량을 확인해 주세요. 재고를 초과할 수 없습니다.');return}
+    if(existing)existing.quantity+=quantity;else state.cart.push({id:p.id,quantity});
+    persist();renderCart();closeModal('detail-modal');toast('장바구니에 담았습니다.')
+  });
+  $('category-form').addEventListener('submit',e=>{
+    e.preventDefault();const name=$('category-name').value.trim();if(!name)return;
+    if(state.categories.some(c=>c.name.toLowerCase()===name.toLowerCase()&&c.id!==editingCategory)){toast('이미 있는 카테고리 이름입니다.');return}
+    if(editingCategory){const c=state.categories.find(x=>x.id===editingCategory);if(c)c.name=name}else state.categories.push({id:uid(),name});
+    resetCategoryForm();persist();renderAll();toast('카테고리를 저장했습니다.')
+  });
+  $('category-cancel').addEventListener('click',resetCategoryForm);
+  $('product-form').addEventListener('submit',e=>{
+    e.preventDefault();
+    const price=Number($('product-price').value),stock=Number($('product-stock').value),image=$('product-image').value.trim();
+    if(!Number.isSafeInteger(price)||price<0||!Number.isSafeInteger(stock)||stock<0||!/^https:\/\/\S+$/i.test(image)){toast('가격, 재고 및 HTTPS 이미지 주소를 확인해 주세요.');return}
+    const values={name:$('product-name').value.trim(),categoryId:$('product-category').value,price,stock,image,description:$('product-description').value.trim()};
+    if(!values.name||!values.description){toast('상품명과 설명을 입력해 주세요.');return}
+    if(editingProduct){const p=state.products.find(x=>x.id===editingProduct);if(p)Object.assign(p,values)}else state.products.push({id:uid(),...values});
+    resetProductForm();persist();renderAll();toast('상품을 저장했습니다.')
+  });
+  $('product-cancel').addEventListener('click',resetProductForm);
+  $('checkout').addEventListener('click',()=>{
+    cleanCart();if(!state.cart.length){renderCart();toast('장바구니가 비어 있습니다.');return}
+    const items=[];
+    for(const item of state.cart){const p=state.products.find(x=>x.id===item.id);if(!p||p.stock<item.quantity){renderCart();toast('재고가 변경되었습니다. 장바구니를 확인해 주세요.');return}items.push({id:p.id,name:p.name,price:p.price,quantity:item.quantity})}
+    const order={id:'P404-'+Date.now().toString(36).toUpperCase(),createdAt:new Date().toISOString(),items,total:items.reduce((sum,i)=>sum+i.price*i.quantity,0)};
+    const snapshot=JSON.stringify(state);
+    for(const item of items)state.products.find(p=>p.id===item.id).stock-=item.quantity;
+    state.orders.push(order);state.cart=[];
+    if(!persist()){state=JSON.parse(snapshot);renderAll();return}
+    renderAll();closeModal('cart-modal');
+    $('success-order').textContent=`주문번호 ${order.id}`;$('success-total').textContent=`결제 예정 금액 ${won(order.total)}`;
+    const qrText=JSON.stringify({orderId:order.id,total:order.total,createdAt:order.createdAt});
+    const canvas=$('order-qr');$('qr-fallback').hidden=true;$('qr-holder').hidden=false;
+    if(window.QRCode?.toCanvas)window.QRCode.toCanvas(canvas,qrText,{width:190,margin:1},err=>{if(err){$('qr-holder').hidden=true;$('qr-fallback').hidden=false}});
+    else{$('qr-holder').hidden=true;$('qr-fallback').hidden=false}
+    openModal('success-modal')
+  });
+  $('success-close').addEventListener('click',()=>closeModal('success-modal'));
+  renderAll();
+})();
+</script>
+ 
+</body></html>
